@@ -1,0 +1,31 @@
+.videorow{
+    display: flex;margin-bottom: 30px;
+    max-width: 700px;
+}
+.viderow_img{
+    width: 246px;
+    height: 138px;
+    object-fit: contain;
+}
+.videorow_text{
+    margin-left: 14px;
+}
+.videorow_des{
+    margin-top: 20px;
+    font-size: 12px;
+    color: #606060;
+
+}
+.videorow_sub{
+    color: rgb(84,157,211);
+    font-weight: bold;
+}
+.videorow_s{
+    background: lightgray;
+    padding: 2px;
+}
+.videorow-heading{
+    color: #606060;
+    font-size: 15px;
+    margin-top: 5px;
+}

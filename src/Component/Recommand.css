@@ -1,0 +1,16 @@
+.recommand{
+    flex: 0.8;
+    background: #f9f9f9;
+    padding: 40px 20px;
+    padding-bottom: 0;
+}
+.recommand h2{
+    margin-left: 5px;
+    margin-bottom: 20px;
+    font-size: 20px;
+
+}
+.recommended_video{
+    display: flex;
+    flex-wrap: wrap;
+}
